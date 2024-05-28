@@ -17,8 +17,8 @@ Este es el repositorio para la materia de Python. Aquí encontrarás recursos, e
 ## Indice
 
 - [Clase 1 - Introducción a Python](Teoria/Clase1.md)
-- [Clase 2 - Estructuras de Control](Teoria/clase2_variables.py)
-- [Clase 3 - Funciones](Clases/Clase3.md)
+- Clase 2 - [variables](Teoria/clase2_variables.py) y su ubicación en [memoria](Teoria/clase2_variables_memoria.py)
+- [Clase 3 - Tipo de Datos](Teoria/clase3_tipos_de_datos.py)
 - [Clase 4 - ](Clases/Clase3.md)
 - [Clase 5 - Operadores](Teoria/clase5-operadores.py)
 - [Clase 6 - Condicionales](Teoria/clase6-condicionales.py)
@@ -30,9 +30,8 @@ Este es el repositorio para la materia de Python. Aquí encontrarás recursos, e
 - [Python.org](https://www.python.org): Sitio web oficial de Python.
 - [Real Python](https://realpython.com): Excelente recurso para aprender Python, con tutoriales y artículos detallados.
 - [GitHub Student Developer Pack](https://education.github.com/pack): Ofrece herramientas y recursos gratuitos para estudiantes, incluyendo acceso a GitHub Pro y cursos de desarrollo.
+- [Aprende Python ](https://aprendepython.es/)
+
 
 ## Contacto
-
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactar al profesor de la materia o a tus compañeros de clase.
-
 - [Linkedin](https://www.linkedin.com/in/omar-ignacio-velazquez-44499414a/): Ignacio Velazquez.
