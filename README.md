@@ -14,12 +14,16 @@ Este es el repositorio para la materia de Python. Aquí encontrarás recursos, e
 - **Documentación**: Documentación generada sobre temas específicos de Python.
 - **Proyectos**: Documentación generada sobre temas específicos de Python.
 
-## Contribución
+## Indice
 
-¡Tu contribución es bienvenida! Si encuentras errores en los materiales, tienes recursos adicionales para compartir o deseas mejorar algo, no dudes en contribuir. Puedes hacerlo de las siguientes maneras:
-
-1. Abriendo un "Issue" para informar sobre errores, sugerir mejoras, etc.
-2. Haciendo un "Pull Request" con tus cambios propuestos.
+- [Clase 1 - Introducción a Python](Teoria/Clase1.md)
+- [Clase 2 - Estructuras de Control](Teoria/clase2_variables.py)
+- [Clase 3 - Funciones](Clases/Clase3.md)
+- [Clase 4 - ](Clases/Clase3.md)
+- [Clase 5 - Operadores](Teoria/clase5-operadores.py)
+- [Clase 6 - Condicionales](Teoria/clase6-condicionales.py)
+- [Clase 7 - Sentencias de control](Teoria/clase7_SentenciaDeControl.py)
+- Clase 8 - [Ciclo While](Teoria/clase8_ciclo_While.py) y [Ciclo For](Teoria/clase8_ciclo_For.py)
 
 ## Enlaces Útiles
 

@@ -56,3 +56,5 @@ y = [1, 2, 3]
 es_mismo_objeto = x is y  # True si x y y apuntan al mismo objeto en memoria
 no_es_mismo_objeto = x is not y  # True si x y y no apuntan al mismo objeto en memoria
 
+
+
